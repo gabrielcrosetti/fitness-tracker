@@ -18,11 +18,11 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useFindAndModify: false
 });
 
-// add html route here 
+// server to use html and api routes
 app.use(apiRoutes)
 app.use(htmlRoutes)
 
 
 app.listen(PORT, () => {
-    console.log(`App running on port ${PORT}!`);
-  });
+  console.log(`App running on port ${PORT}!`);
+});
