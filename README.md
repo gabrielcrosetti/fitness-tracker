@@ -1,7 +1,7 @@
 # Fitness Tracker
 
 ## Summary 
-This app works as a workout tracker that lets the user track of their workouts. The user is able to create workouts with different exercises, continue past workouts, and view stats on previous workouts in the dashboard.
+This app works as a workout tracker that lets the user keep track of their workouts. The user is able to create workouts with different exercises, continue past workouts, and view stats on previous workouts in the dashboard.
 
 ## Built With
 * Javascript 
