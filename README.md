@@ -26,3 +26,5 @@ Put route to continue an existing workout
 <img width="772" alt="Screen Shot 2021-11-16 at 1 00 23 AM" src="https://user-images.githubusercontent.com/89226867/141929644-236d9704-ce99-44d4-bc21-4f33c26b5f5e.png">
 
 ## Author 
+[Github](https://github.com/gabrielcrosetti)
+[LinkedIn](https://www.linkedin.com/in/gabriel-crosetti)
