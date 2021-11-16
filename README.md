@@ -10,6 +10,9 @@ This app works as a workout tracker that lets the user keep track of their worko
 * MongoDB
 * Git
 
+## Link to Deployed Site
+[Live Site](https://calm-tor-01621.herokuapp.com/)
+
 ## Site Picture
 
 <img width="1439" alt="Screen Shot 2021-11-16 at 12 58 39 AM" src="https://user-images.githubusercontent.com/89226867/141929502-8c42d262-2589-4681-8623-e3624f183757.png">
